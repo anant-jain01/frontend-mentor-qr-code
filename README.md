@@ -1,4 +1,6 @@
 # Frontend Mentor - QR code component
+LINK TO VIEW:
+https://frontend-mentor-qr-code-inky.vercel.app/
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
